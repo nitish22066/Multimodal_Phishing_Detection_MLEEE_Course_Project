@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+whois
+dnspython
+scikit-learn
+xgboost
+python-whois
+tld
+joblib
+googlesearch-python

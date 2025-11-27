@@ -1,0 +1,14 @@
+{
+  "API_KEY": "01986b18-1896-763f-9d6f-db66c2b51f0c",
+  "Domain_Database": "D:\\Phishing_Detector\\Dataset\\domains.xlsx",
+  "Submission_Excel_Sheet": "PS2_AIGR-S77442_Submission_Set.xlsx",
+  "ensemble_config": {
+    "use_pls": false,
+    "pls_components": 10,
+    "use_gnn": false,
+    "meta_learner_type": "logistic",
+    "gnn_output_dim": 32,
+    "k_neighbors": 5
+  },
+  "csv_results_path": "Models/csv_results"
+}
