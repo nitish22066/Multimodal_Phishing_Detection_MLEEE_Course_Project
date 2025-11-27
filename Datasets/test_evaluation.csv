@@ -1,0 +1,4 @@
+URL,label,description
+https://www.google.com,0,Legitimate search engine
+https://www.github.com,0,Legitimate code repository
+http://192.168.1.1/login,1,Suspicious IP-based URL
